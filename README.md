@@ -1,18 +1,9 @@
-# node.js-tutorial
-Atividade01A
-
-Tutorial: 20/09/2023
-
-Autor: Giovanna Silva Varjão
-
-    Inicialmente, abra o terminal pressionando as seguintes teclas: Ctrl + Alt + T.
-
-    Após isso, acesse o ambiente Node.js com o seguinte comando: source ./nodejs-env/bin/activate.
-
-    Navegue até a pasta desejada no terminal usando o comando: cd ~/nodejs-env.
-
-    Em seguida, execute o seguinte comando para iniciar a aplicação: node index.js. Certifique-se de que o nome do arquivo é "index.js", pois parece haver um erro de digitação na sua instrução original.
-
-    Para finalizar, abra o navegador e na barra de pesquisa digite o seguinte endereço: localhost:8032. Isso permitirá o acesso à página.
-
-Essas são as instruções revisadas e corrigidas para a atividade. Certifique-se de seguir cada passo cuidadosamente para concluir a tarefa com sucesso.
+# node.js-tutorial1. Abra o terminal pressionando Ctrl + Alt + T.
+2. Digite o comando "source ./nodejs-env/bin/activate" para acessar o ambiente Node.js.
+3. Use o comando "cd ~/nodejs-env" para navegar até a pasta desejada no terminal.
+4. Verifique se você possui o arquivo "index.js" na pasta correta. Caso contrário, verifique se você está na pasta correta ou se o arquivo foi renomeado.
+5. Execute a aplicação digitando "node index.js" no terminal. Certifique-se de que não há erros ou mensagens de erro durante a execução.
+6. Certifique-se de que a aplicação foi iniciada corretamente sem erros ou mensagens de erro.
+7. Abra o navegador de sua escolha.
+8. Na barra de pesquisa do navegador, digite "localhost:8032" e pressione Enter para acessar a página.
+9. Verifique se a página carregou corretamente e está funcionando conforme esperado. Verifique se todas as funcionalidades esperadas estão presentes e se não há erros visíveis na página
